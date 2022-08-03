@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fddbab9b_002D3313_002D401b_002D9f4c_002D046e6f1d1e41/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnNextPalindrome" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4826B14-C253-4B8A-82DE-3C10E32F595F::net5.0::TestProject1.DataStructuresTests.ShouldBuildDirectedGraph&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4826B14-C253-4B8A-82DE-3C10E32F595F::net5.0::TestProject1.DataStructuresTests.ShouldBuildUndirectedGraph&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4826B14-C253-4B8A-82DE-3C10E32F595F::net5.0::TestProject1.DataStructuresTests.ShouldRemoveDupesFromHashSet&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4826B14-C253-4B8A-82DE-3C10E32F595F::net5.0::TestProject1.DataStructuresTests.ShouldSearchTree&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C4826B14-C253-4B8A-82DE-3C10E32F595F::net5.0::TestProject1.DataStructuresTests.ShouldDetermineShortestPathForUndirectedGraph&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
